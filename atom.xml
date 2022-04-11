@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sunjiaqi-nancy.github.io/</id>
     <title>GDtest</title>
-    <updated>2022-04-11T04:40:24.929Z</updated>
+    <updated>2022-04-11T04:57:00.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sunjiaqi-nancy.github.io/"/>
     <link rel="self" href="https://sunjiaqi-nancy.github.io/atom.xml"/>
@@ -11,19 +11,42 @@
     <icon>https://sunjiaqi-nancy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, GDtest</rights>
     <entry>
-        <title type="html"><![CDATA[HELLO GDPH Bigdata Center]]></title>
+        <title type="html"><![CDATA[Welcome GDPH Bigdata Center]]></title>
         <id>https://sunjiaqi-nancy.github.io/post/hello-gdph-da-shu-ju-zhong-xin/</id>
         <link href="https://sunjiaqi-nancy.github.io/post/hello-gdph-da-shu-ju-zhong-xin/">
         </link>
         <updated>2022-04-11T04:16:30.000Z</updated>
-        <content type="html"><![CDATA[<p>#👏GDPH大数据中心团队<br>
-##Liang Huiying's Teams<br>
-###NLP<br>
-###Radiology<br>
-###Sequence<br>
-###Omics<br>
-###Drug<br>
-###……</p>
+        <summary type="html"><![CDATA[<p>👏欢迎来到GDPH大数据中心团队平台</p>
+<h2 id="welcome-to-liang-huiyings-teams">Welcome to Liang Huiying's Teams</h2>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏欢迎来到GDPH大数据中心团队平台</p>
+<h2 id="welcome-to-liang-huiyings-teams">Welcome to Liang Huiying's Teams</h2>
+<!-- more -->
+<ul>
+<li>
+<p>NLP<br>
+<a href="%E9%A1%B9%E7%9B%AE%E9%93%BE%E6%8E%A5">Github</a></p>
+</li>
+<li>
+<p>Radiology<br>
+<a href="%E9%A1%B9%E7%9B%AE%E9%93%BE%E6%8E%A5">Github</a></p>
+</li>
+<li>
+<p>Sequence<br>
+<a href="%E9%A1%B9%E7%9B%AE%E9%93%BE%E6%8E%A5">Github</a></p>
+</li>
+<li>
+<p>Omics<br>
+<a href="%E9%A1%B9%E7%9B%AE%E9%93%BE%E6%8E%A5">Github</a></p>
+</li>
+<li>
+<p>Drug<br>
+<a href="%E9%A1%B9%E7%9B%AE%E9%93%BE%E6%8E%A5">Github</a></p>
+</li>
+<li>
+<p>……</p>
+</li>
+</ul>
 <p><a href="https://sunjiaqi-nancy.github.io/">Github</a></p>
 ]]></content>
     </entry>
