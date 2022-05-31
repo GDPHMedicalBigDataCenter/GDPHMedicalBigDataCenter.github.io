@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GDPHMedicalBigDataCenter.github.io/</id>
     <title>GDPHMedicalBigDataCenter</title>
-    <updated>2022-04-27T06:34:09.444Z</updated>
+    <updated>2022-05-31T11:45:46.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://GDPHMedicalBigDataCenter.github.io/"/>
     <link rel="self" href="https://GDPHMedicalBigDataCenter.github.io/atom.xml"/>
@@ -25,29 +25,33 @@
 <ul>
 <li>
 <p>NLP<br>
-<a href="%E9%A1%B9%E7%9B%AE%E9%93%BE%E6%8E%A5">Github</a></p>
+<a href="https://github.com/GDPHMedicalBigDataCenter/NLP">Github</a></p>
 </li>
 <li>
-<p>Radiology<br>
-<a href="%E9%A1%B9%E7%9B%AE%E9%93%BE%E6%8E%A5">Github</a></p>
+<p>MSIMI<br>
+<a href="https://github.com/GDPHMedicalBigDataCenter/MSIMI">Github</a></p>
 </li>
 <li>
-<p>Sequence<br>
-<a href="%E9%A1%B9%E7%9B%AE%E9%93%BE%E6%8E%A5">Github</a></p>
+<p>Develop<br>
+<a href="https://github.com/GDPHMedicalBigDataCenter/Develop">Github</a></p>
 </li>
 <li>
-<p>Omics<br>
-<a href="%E9%A1%B9%E7%9B%AE%E9%93%BE%E6%8E%A5">Github</a></p>
+<p>Bioinformatics<br>
+<a href="https://github.com/GDPHMedicalBigDataCenter/Bioinformatics">Github</a></p>
+</li>
+<li>
+<p>CHDdECG<br>
+<a href="https://github.com/GDPHMedicalBigDataCenter/CHDdECG">Github</a></p>
 </li>
 <li>
 <p>Drug<br>
-<a href="%E9%A1%B9%E7%9B%AE%E9%93%BE%E6%8E%A5">Github</a></p>
+<a href="https://github.com/GDPHMedicalBigDataCenter/Drug">Github</a></p>
 </li>
 <li>
 <p>……</p>
 </li>
 </ul>
-<p><a href="https://sunjiaqi-nancy.github.io/">Github</a></p>
+<p><a href="https://gdphmedicalbigdatacenter.github.io/">Github</a></p>
 ]]></content>
     </entry>
 </feed>
